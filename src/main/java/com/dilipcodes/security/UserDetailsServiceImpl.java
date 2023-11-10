@@ -1,4 +1,4 @@
-package com.dilipcodes.configuration;
+package com.dilipcodes.security;
 
 import com.dilipcodes.model.User;
 import com.dilipcodes.service.UserService;

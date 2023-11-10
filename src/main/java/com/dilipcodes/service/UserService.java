@@ -5,6 +5,7 @@ import org.springframework.stereotype.Service;
 
 @Service
 public interface UserService {
-
     boolean register(User user);
+
+    User getUserByUsername(String username);
 }
